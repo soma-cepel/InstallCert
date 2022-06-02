@@ -1,5 +1,7 @@
 InstallCert.java
 
+You can view this blog post  : https://www.mkyong.com/webservices/jax-ws/suncertpathbuilderexception-unable-to-find-valid-certification-path-to-requested-target/
+
 Java program written by Andreas Sterbenz, and posted on a blog in Oct, 2006:
 https://blogs.oracle.com/gc/entry/unable_to_find_valid_certification
 
